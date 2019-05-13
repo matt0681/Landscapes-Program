@@ -1,4 +1,3 @@
-// Matthew Lad
 // 5/2/2019
 
 package Board;
