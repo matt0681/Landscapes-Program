@@ -1,4 +1,3 @@
-// Matthew Lad
 // 5/8/2019
 
 package Graphics;
